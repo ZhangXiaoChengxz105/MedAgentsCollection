@@ -1,9 +1,9 @@
 [submodule "external/MedChain"]
 	path = external/MedChain
-	url = https://github.com/ljwztc/MedChain
+	url = https://github.com/ZhangXiaoChengxz105/MedChain.git
 [submodule "external/EHRAgent"]
 	path = external/EHRAgent
-	url = https://github.com/wshi83/EhrAgent
+	url = https://github.com/ZhangXiaoChengxz105/EhrAgent.git
 [submodule "external/MAHA"]
 	path = external/MAHA
-	url = https://github.com/sakharamg/Multi-Agent-Health-Assistant
+	url = https://github.com/ZhangXiaoChengxz105/Multi-Agent-Health-Assistant.git
