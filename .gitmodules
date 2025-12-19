@@ -7,3 +7,12 @@
 [submodule "external/MAHA"]
 	path = external/MAHA
 	url = https://github.com/ZhangXiaoChengxz105/Multi-Agent-Health-Assistant.git
+[submodule "external/AIHealthcareBot"]
+	path = external/AIHealthcareBot
+	url = https://github.com/ZhangXiaoChengxz105/AI-Healthcare-Bot-with-Memory
+[submodule "external/MediGenius"]
+	path = external/MediGenius
+	url = https://github.com/ZhangXiaoChengxz105/MediGenius
+[submodule "external/Multi-Agent-Medical-Assistant"]
+	path = external/Multi-Agent-Medical-Assistant
+	url = https://github.com/ZhangXiaoChengxz105/Multi-Agent-Medical-Assistant
